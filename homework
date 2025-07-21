@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>title</title>
+</head>
+
+<body>
+
+    Task 1:
+    -------------------------------------------------------------------------------------------------------------
+    <table border="1" cellspacing="0" cellpadding="5" <tr>
+        <th>Имя</th>
+        <th>Возраст</th>
+        <th>Город</th>
+        </tr>
+        <tr>
+            <td>Эльнур </td>
+            <td>13</td>
+            <td>Баку</td>
+        <tr>
+            <td>Лейла </td>
+            <td>11</td>
+            <td>Гянджа</td>
+        <tr>
+            <td>Камран </td>
+            <td>14</td>
+            <td>Сумгайыт</td>
+        <tr>
+
+
+
+
+        </tr>
+
+
+
+
+        </tr>
+
+
+
+        </tr>
+
+
+
+        </tr>
+
+        <table border="1" cellspacing="0">
+
+            Task
+            2:--------------------------------------------------------------------------------------------------------------
+
+            <tr>
+                <th colspan="8" align="center">TIMETABLE</th>
+            </tr>
+            <tr>
+                <th>Date/time</th>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+                <th>Sunday</th>
+            </tr>
+            <tr2>
+                <td>8:00</td>
+                <td>English</td>
+                <td>English</td>
+                <td>English</td>
+                <td>English</td>
+                <td>English</td>
+                <td rowspan="7" colspan="2" align="center"><strong>Homework</strong></td>
+
+            </tr2>
+            <tr>
+                <td>8:45</td>
+                <td colspan="5" style="text-align: center;"><b>SHORT BREAK</b></td>
+            </tr>
+            <tr>
+                <td>8:50</td>
+                <td>Mathematics</td>
+                <td>Mathematics</td>
+                <td>Mathematics</td>
+                <td>Mathematics</td>
+                <td>Mathematics</td>
+
+
+            </tr>
+            <tr>
+                <td>9:35</td>
+                <td colspan="5" align="center"><b>SNACK BREAK</b></td>
+
+            </tr>
+            <tr>
+                <td>9:50</td>
+                <td>Physics</td>
+                <td>Chemistry</td>
+                <td>Biology</td>
+                <td>Physics</td>
+                <td>Chemistry</td>
+
+
+            </tr>
+            <tr>
+                <td>10:35</td>
+                <td colspan="5" align="center"><b>LUNCH BREAK</b></td>
+            </tr>
+            <tr>
+
+                <td>11:10</td>
+                <td>German</td>
+                <td>German</td>
+                <td>German</td>
+                <td>German</td>
+                <td>German</td>
+
+        </table>
+        Task
+        3:-------------------------------------------------------------------------------------------------------------
+        <table border="1" cellspacing="0">
+            <tr>
+            <th><strong>Name</strong></th>
+            <th><strong>Price</strong></th>
+            <th><strong>Amount</strong></th>
+            </tr>
+            
+
+
+
+
+        </table>
+
+</body>
+
+</html>
