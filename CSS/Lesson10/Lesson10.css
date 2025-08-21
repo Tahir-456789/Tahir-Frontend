@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(219, 218, 195);
+    font-family: Arial, sans-serif;
+}
 .title {
      font-size: 2em;
      text-align: center;
@@ -7,4 +11,34 @@
     font-size: 1.2em;
     text-align: center;
     color: green;
+}
+.title2 {
+    font-size: 1.5em;
+    text-align: center;
+    color: rgb(4, 151, 4);
+}
+.title3 {
+    font-size: 1.2em;
+    text-align: center;
+    color: purple;
+}
+.title4 {
+    font-size: 1.5em;
+    text-align: center;
+    color: rgb(70, 64, 64);
+}
+.title5 {
+    font-size: 1.2em;
+    text-align: center;
+    color: rgb(25, 11, 155);
+}
+.paragraph2 {
+    font-size: 1.2em;
+    text-align: center;
+    color: rgb(56, 54, 54);
+}
+.paragraph3 {
+    font-size: 1.2em;
+    text-align: center;
+    color: rgb(88, 52, 4);
 }
