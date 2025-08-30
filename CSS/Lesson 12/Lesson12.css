@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    font-family: Arial;
+    font-size: 32px;
+    color: #333;
+}
+p{
+    font-family: cursive;
+    font-weight: bold;
+    line-height: 1.5
+    letter-spacing: 2px;
+}
+div{
+    text-align: center;
+}
